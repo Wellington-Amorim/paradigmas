@@ -1,0 +1,49 @@
+AULA 000
+
+LINGUAGEM ESCOLHIDA: DART
+
+PARADIGMA DA LINGUAGEM:
+O Dart é uma linguagem multiparadigma que une a Programação Orientada a Objetos (onde tudo é um objeto baseado 
+em classes e mixins) com a flexibilidade da Programação Funcional (usando funções como cidadãs de primeira classe). 
+Sua estrutura é nativamente projetada para o modelo Assíncrono/Reativo por meio de Futures e Streams, permitindo o 
+desenvolvimento de fluxos concorrentes altamente eficientes sem bloquear a execução principal do código.
+
+COMO O MERCADO ESTÁ PARA DART:
+Nível de Experiência🇧🇷 Mercado Brasil (Mensal) Mercado Internacional / Gringa (Anual)
+Júnior (1 a 2 anos)   R$ 3.500 a R$ 5.500     US$ 25.000 a US$ 65.000 (~R$ 11k a R$ 29k/mês)
+Pleno (2 a 4 anos)    R$ 6.000 a R$ 11.000    US$ 70.000 a US$ 105.000 (~R$ 32k a R$ 48k/mês)
+Sênior (5+ anos)      R$ 12.000 a R$ 18.000+  US$ 115.000 a US$ 150.000+ (~R$ 53k a R$ 69k/mês)
+
+EXEMPLO DE UMA VAGA REAL:
+Desenvolvedor(a) Flutter Pleno – Sportter
+
+Descrição da vaga:
+The Growth Hub contrata Desenvolvedor(a) Flutter nível Pleno para apoiar a evolução da Sportter. (vaga via bebee.com)
+Modelo de trabalho: 100% remoto
+Regime: Part-time (3 a 4 horas por dia, de segunda a sexta-feira)
+Remuneração: R$ 7.000,00
+
+Perfil desejado
+-Experiência prática com Flutter e Dart em projetos em produção
+-Estruturação de projetos, componentização e gerenciamento de estado
+-Navegação entre telas e integração com APIs
+-Experiência em publicação de aplicativos
+-Vivência sólida com Supabase: autenticação, banco de dados, Realtime, Storage, Policies (RLS), funções e consultas
+-Autonomia para trabalhar sobre uma arquitetura já existente, sem recriações desnecessárias
+-Uso de Git, entregas frequentes e testes antes de disponibilizar funcionalidades
+Diferenciais
+-Mapbox
+-Push Notifications
+-Publicação na Play Store e App Store
+-Arquiteturas escaláveis
+-Aplicações com Realtime
+-Projetos SaaS
+
+Benefícios
+-Trabalho 100% remoto
+-Flexibilidade de horário (part-time)
+-Projeto de longo prazo, com participação ativa nas decisões técnicas do produto
+-Sólides Academy (plataforma de cursos online)
+-Total Pass
+-Mediquo (telemedicina)
+-Tem Saúde (Descontos em farmácias, medicamentos, exames e odontologia)
